@@ -1,0 +1,598 @@
+{
+ "name": "KJV archaic words and false friends",
+ "version": 1,
+ "source": "thealmightyjehovah.com",
+ "note": "Original definitions written for thealmightyjehovah.com. Selection ranked by frequency in the KJV text.",
+ "method": "Word selection is data driven from the KJV text itself: candidates tested against all 1,189 chapters and ranked by frequency of occurrence. Definitions were written for this dataset, not compiled from an existing list.",
+ "counts": {
+  "entries": 117,
+  "falseFriends": 27
+ },
+ "entries": [
+  {
+   "word": "abide",
+   "definition": "To remain, dwell or endure.",
+   "falseFriend": false
+  },
+  {
+   "word": "abideth",
+   "definition": "Remains, endures.",
+   "falseFriend": false
+  },
+  {
+   "word": "albeit",
+   "definition": "Although.",
+   "falseFriend": false
+  },
+  {
+   "word": "apparel",
+   "definition": "Clothing, dress.",
+   "falseFriend": false
+  },
+  {
+   "word": "asunder",
+   "definition": "Apart; into pieces.",
+   "falseFriend": false
+  },
+  {
+   "word": "beseech",
+   "definition": "To beg earnestly.",
+   "falseFriend": false
+  },
+  {
+   "word": "besought",
+   "definition": "Begged earnestly.",
+   "falseFriend": false
+  },
+  {
+   "word": "betwixt",
+   "definition": "Between.",
+   "falseFriend": false
+  },
+  {
+   "word": "bewray",
+   "definition": "To betray or reveal.",
+   "falseFriend": false
+  },
+  {
+   "word": "bottle",
+   "definition": "A skin used to hold liquid, not glass.",
+   "falseFriend": false
+  },
+  {
+   "word": "bowels",
+   "definition": "The inward parts, seen as the seat of compassion and deep feeling.",
+   "falseFriend": true
+  },
+  {
+   "word": "brethren",
+   "definition": "Brothers; fellow members of a community.",
+   "falseFriend": false
+  },
+  {
+   "word": "candle",
+   "definition": "A lamp.",
+   "falseFriend": false
+  },
+  {
+   "word": "centurion",
+   "definition": "A Roman officer commanding about a hundred soldiers.",
+   "falseFriend": false
+  },
+  {
+   "word": "charity",
+   "definition": "Love — the self-giving love of 1 Corinthians 13, not almsgiving.",
+   "falseFriend": true
+  },
+  {
+   "word": "chasteneth",
+   "definition": "Corrects, disciplines.",
+   "falseFriend": false
+  },
+  {
+   "word": "chastening",
+   "definition": "Correction and discipline given in love.",
+   "falseFriend": false
+  },
+  {
+   "word": "cleave",
+   "definition": "To cling fast to. Confusingly it can also mean to split apart.",
+   "falseFriend": true
+  },
+  {
+   "word": "cleaveth",
+   "definition": "Clings fast to.",
+   "falseFriend": true
+  },
+  {
+   "word": "comfort",
+   "definition": "To strengthen or encourage, not merely to console.",
+   "falseFriend": true
+  },
+  {
+   "word": "compassed",
+   "definition": "Surrounded, encircled.",
+   "falseFriend": false
+  },
+  {
+   "word": "concupiscence",
+   "definition": "Strong, disordered desire.",
+   "falseFriend": false
+  },
+  {
+   "word": "conversation",
+   "definition": "Conduct; the whole manner of a person's life, not speech.",
+   "falseFriend": true
+  },
+  {
+   "word": "corn",
+   "definition": "Grain of any kind — wheat or barley. Not maize.",
+   "falseFriend": true
+  },
+  {
+   "word": "countenance",
+   "definition": "The face, or the expression upon it.",
+   "falseFriend": false
+  },
+  {
+   "word": "cubit",
+   "definition": "A measure of about eighteen inches — elbow to fingertip.",
+   "falseFriend": false
+  },
+  {
+   "word": "durst",
+   "definition": "Dared.",
+   "falseFriend": false
+  },
+  {
+   "word": "emerods",
+   "definition": "Tumours or swellings.",
+   "falseFriend": false
+  },
+  {
+   "word": "ephod",
+   "definition": "A priestly garment worn over the shoulders.",
+   "falseFriend": false
+  },
+  {
+   "word": "eschew",
+   "definition": "To shun or deliberately avoid.",
+   "falseFriend": false
+  },
+  {
+   "word": "fain",
+   "definition": "Gladly; willingly.",
+   "falseFriend": false
+  },
+  {
+   "word": "farthing",
+   "definition": "A very small coin.",
+   "falseFriend": false
+  },
+  {
+   "word": "fetch",
+   "definition": "To bring, or to make a circuit around.",
+   "falseFriend": true
+  },
+  {
+   "word": "firmament",
+   "definition": "The expanse of the sky.",
+   "falseFriend": false
+  },
+  {
+   "word": "fornication",
+   "definition": "Sexual immorality.",
+   "falseFriend": false
+  },
+  {
+   "word": "fourscore",
+   "definition": "Eighty (four times twenty).",
+   "falseFriend": false
+  },
+  {
+   "word": "froward",
+   "definition": "Perverse, wilfully contrary.",
+   "falseFriend": false
+  },
+  {
+   "word": "girded",
+   "definition": "Bound about the waist, made ready for work or travel.",
+   "falseFriend": false
+  },
+  {
+   "word": "girdle",
+   "definition": "A belt or sash worn about the waist.",
+   "falseFriend": false
+  },
+  {
+   "word": "graven",
+   "definition": "Carved or engraved — as in a graven image.",
+   "falseFriend": false
+  },
+  {
+   "word": "haply",
+   "definition": "Perhaps; by chance.",
+   "falseFriend": false
+  },
+  {
+   "word": "hither",
+   "definition": "To this place; here.",
+   "falseFriend": false
+  },
+  {
+   "word": "hoar",
+   "definition": "White or grey with age — \"hoar frost\", \"hoary head\".",
+   "falseFriend": false
+  },
+  {
+   "word": "holpen",
+   "definition": "Helped.",
+   "falseFriend": false
+  },
+  {
+   "word": "howbeit",
+   "definition": "Nevertheless; however.",
+   "falseFriend": false
+  },
+  {
+   "word": "husbandman",
+   "definition": "A farmer.",
+   "falseFriend": false
+  },
+  {
+   "word": "insomuch",
+   "definition": "To such a degree that.",
+   "falseFriend": false
+  },
+  {
+   "word": "instant",
+   "definition": "Urgent, persistent — \"instant in prayer\" means persevering.",
+   "falseFriend": true
+  },
+  {
+   "word": "kine",
+   "definition": "Cattle; cows.",
+   "falseFriend": false
+  },
+  {
+   "word": "lasciviousness",
+   "definition": "Unrestrained indulgence; sensuality.",
+   "falseFriend": false
+  },
+  {
+   "word": "laver",
+   "definition": "The basin for ritual washing in the tabernacle.",
+   "falseFriend": false
+  },
+  {
+   "word": "lest",
+   "definition": "For fear that; in case.",
+   "falseFriend": false
+  },
+  {
+   "word": "let",
+   "definition": "To hinder or restrain — the opposite of the modern sense.",
+   "falseFriend": true
+  },
+  {
+   "word": "letteth",
+   "definition": "Hinders, restrains.",
+   "falseFriend": true
+  },
+  {
+   "word": "longsuffering",
+   "definition": "Patience under provocation; slowness to anger.",
+   "falseFriend": false
+  },
+  {
+   "word": "meat",
+   "definition": "Food of any kind, not flesh specifically.",
+   "falseFriend": true
+  },
+  {
+   "word": "mete",
+   "definition": "To measure out.",
+   "falseFriend": false
+  },
+  {
+   "word": "mite",
+   "definition": "The smallest coin in use; the widow's two mites.",
+   "falseFriend": false
+  },
+  {
+   "word": "murrain",
+   "definition": "A plague or disease among cattle.",
+   "falseFriend": false
+  },
+  {
+   "word": "naughty",
+   "definition": "Worthless, good for nothing — far stronger than the modern word.",
+   "falseFriend": true
+  },
+  {
+   "word": "nay",
+   "definition": "No; rather.",
+   "falseFriend": false
+  },
+  {
+   "word": "nigh",
+   "definition": "Near.",
+   "falseFriend": false
+  },
+  {
+   "word": "notwithstanding",
+   "definition": "In spite of that; nevertheless.",
+   "falseFriend": false
+  },
+  {
+   "word": "nought",
+   "definition": "Nothing.",
+   "falseFriend": false
+  },
+  {
+   "word": "obeisance",
+   "definition": "A bow or act of homage.",
+   "falseFriend": false
+  },
+  {
+   "word": "ought",
+   "definition": "Anything at all. Also the sense of moral duty.",
+   "falseFriend": false
+  },
+  {
+   "word": "peculiar",
+   "definition": "Belonging especially to one owner; treasured, not odd.",
+   "falseFriend": true
+  },
+  {
+   "word": "penny",
+   "definition": "A denarius — about a day's wage for a labourer.",
+   "falseFriend": false
+  },
+  {
+   "word": "peradventure",
+   "definition": "Perhaps; it may be.",
+   "falseFriend": false
+  },
+  {
+   "word": "prevent",
+   "definition": "To go before, precede or anticipate — not to hinder.",
+   "falseFriend": true
+  },
+  {
+   "word": "privily",
+   "definition": "Secretly, privately.",
+   "falseFriend": false
+  },
+  {
+   "word": "propitiation",
+   "definition": "The turning away of wrath by an offering; atonement.",
+   "falseFriend": false
+  },
+  {
+   "word": "publican",
+   "definition": "A tax collector for Rome, despised as a collaborator.",
+   "falseFriend": false
+  },
+  {
+   "word": "quick",
+   "definition": "Living, alive. \"The quick and the dead\" means the living and the dead.",
+   "falseFriend": true
+  },
+  {
+   "word": "quicken",
+   "definition": "To make alive, give life to.",
+   "falseFriend": true
+  },
+  {
+   "word": "quickened",
+   "definition": "Made alive.",
+   "falseFriend": true
+  },
+  {
+   "word": "raiment",
+   "definition": "Clothing.",
+   "falseFriend": false
+  },
+  {
+   "word": "recompence",
+   "definition": "Repayment; what is given in return.",
+   "falseFriend": false
+  },
+  {
+   "word": "rent",
+   "definition": "Torn, or a tear. Garments were \"rent\" in grief.",
+   "falseFriend": true
+  },
+  {
+   "word": "requite",
+   "definition": "To repay or return in kind.",
+   "falseFriend": false
+  },
+  {
+   "word": "sackcloth",
+   "definition": "Coarse dark cloth worn as a sign of mourning or repentance.",
+   "falseFriend": false
+  },
+  {
+   "word": "scrip",
+   "definition": "A small bag or satchel for a journey.",
+   "falseFriend": false
+  },
+  {
+   "word": "selah",
+   "definition": "A musical or liturgical pause in the Psalms; a call to reflect.",
+   "falseFriend": false
+  },
+  {
+   "word": "simple",
+   "definition": "Naive, easily led — lacking judgement rather than lacking intelligence.",
+   "falseFriend": true
+  },
+  {
+   "word": "sojourn",
+   "definition": "To stay for a time as a foreigner.",
+   "falseFriend": false
+  },
+  {
+   "word": "sore",
+   "definition": "Severely, greatly — \"sore afraid\" means greatly afraid.",
+   "falseFriend": false
+  },
+  {
+   "word": "sorely",
+   "definition": "Severely, grievously.",
+   "falseFriend": false
+  },
+  {
+   "word": "straitly",
+   "definition": "Strictly, closely.",
+   "falseFriend": false
+  },
+  {
+   "word": "suffer",
+   "definition": "To allow or permit. \"Suffer the little children\" means let them come.",
+   "falseFriend": true
+  },
+  {
+   "word": "suffered",
+   "definition": "Allowed, permitted.",
+   "falseFriend": true
+  },
+  {
+   "word": "sware",
+   "definition": "Swore; made an oath.",
+   "falseFriend": false
+  },
+  {
+   "word": "tabernacle",
+   "definition": "The portable tent of worship carried through the wilderness.",
+   "falseFriend": false
+  },
+  {
+   "word": "talent",
+   "definition": "A large unit of weight and money — many years' wages.",
+   "falseFriend": false
+  },
+  {
+   "word": "tarry",
+   "definition": "To wait, stay or delay.",
+   "falseFriend": false
+  },
+  {
+   "word": "thence",
+   "definition": "From that place.",
+   "falseFriend": false
+  },
+  {
+   "word": "thither",
+   "definition": "To that place; there.",
+   "falseFriend": false
+  },
+  {
+   "word": "threescore",
+   "definition": "Sixty (three times twenty).",
+   "falseFriend": false
+  },
+  {
+   "word": "threshingfloor",
+   "definition": "The flat place where grain was separated from chaff.",
+   "falseFriend": false
+  },
+  {
+   "word": "thrice",
+   "definition": "Three times.",
+   "falseFriend": false
+  },
+  {
+   "word": "twain",
+   "definition": "Two.",
+   "falseFriend": false
+  },
+  {
+   "word": "unction",
+   "definition": "An anointing.",
+   "falseFriend": false
+  },
+  {
+   "word": "vail",
+   "definition": "Veil — the curtain screening the holy place.",
+   "falseFriend": false
+  },
+  {
+   "word": "verily",
+   "definition": "Truly, certainly. Christ's \"verily, verily\" marks solemn emphasis.",
+   "falseFriend": false
+  },
+  {
+   "word": "vile",
+   "definition": "Of low value or lowly estate, not necessarily wicked.",
+   "falseFriend": true
+  },
+  {
+   "word": "ward",
+   "definition": "Custody or guard — a prison or the act of keeping watch.",
+   "falseFriend": true
+  },
+  {
+   "word": "wax",
+   "definition": "To grow or become. \"Wax old\" means grow old.",
+   "falseFriend": true
+  },
+  {
+   "word": "waxed",
+   "definition": "Grew, became.",
+   "falseFriend": true
+  },
+  {
+   "word": "whence",
+   "definition": "From what place; from where.",
+   "falseFriend": false
+  },
+  {
+   "word": "wherefore",
+   "definition": "For this reason; therefore. Also \"why?\".",
+   "falseFriend": false
+  },
+  {
+   "word": "whither",
+   "definition": "To what place; where to.",
+   "falseFriend": false
+  },
+  {
+   "word": "wine",
+   "definition": "The fermented juice of the grape; sometimes simply the fresh juice.",
+   "falseFriend": true
+  },
+  {
+   "word": "winepress",
+   "definition": "The trough where grapes were trodden for wine.",
+   "falseFriend": false
+  },
+  {
+   "word": "wist",
+   "definition": "Knew.",
+   "falseFriend": false
+  },
+  {
+   "word": "withal",
+   "definition": "With it; besides; at the same time.",
+   "falseFriend": false
+  },
+  {
+   "word": "wot",
+   "definition": "To know. \"I wot not\" means I do not know.",
+   "falseFriend": false
+  },
+  {
+   "word": "wroth",
+   "definition": "Angry.",
+   "falseFriend": false
+  },
+  {
+   "word": "yea",
+   "definition": "Yes; indeed. Often introduces emphasis.",
+   "falseFriend": false
+  }
+ ]
+}
