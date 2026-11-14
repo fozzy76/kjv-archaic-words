@@ -1,0 +1,34 @@
+name: env-check
+
+# Fails when any tracked file is .env or .env.* (except .env.example and .env.sample),
+# or ends in .pem or .key. Same rule as 76DS scripts/github-env-gate.mjs (TSK-2026-2830 item b).
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  env-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Fail on tracked .env, .pem or .key files
+        run: |
+          hits=$(git -c core.quotePath=false ls-files | awk -F/ '
+            { b = tolower($NF) }
+            b == ".env.example" || b == ".env.sample" { next }
+            b == ".env" || b ~ /^\.env\./ || b ~ /\.pem$/ || b ~ /\.key$/ { print }
+          ')
+          if [ -n "$hits" ]; then
+            echo "::error::Tracked .env, .pem or .key files are not allowed in this repository:"
+            printf '%s\n' "$hits"
+            exit 1
+          fi
+          echo "env-check passed: no tracked .env, .env.*, .pem or .key files."
